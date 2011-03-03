@@ -1,0 +1,14 @@
+# Processes
+alias tu='top -o cpu'
+alias tm='top -o vsize'
+
+alias ll='ls -l'
+alias lt='ls -lt'
+alias la='ls -al'
+
+alias h='history'
+alias c='clear'
+
+# Git
+alias g='git status'
+

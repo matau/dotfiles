@@ -1,0 +1,3 @@
+Host svafsext01
+	HostName svafsext01
+	User afstom
